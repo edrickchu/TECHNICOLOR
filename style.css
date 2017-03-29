@@ -1,4 +1,5 @@
-.top{
+#LOGO{
+  content:url(/img/TECHNICOLOR-REVOLVE.gif)
   height: auto;
   max-width: 100%;
   margin: 0 auto;

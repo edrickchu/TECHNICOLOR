@@ -1,6 +1,6 @@
-#LOGO{
-  content:url(/img/TECHNICOLOR-REVOLVE.gif)
-  height: auto;
-  max-width: 100%;
+#header{
+  height: 218;
+  width: 100%;
   margin: 0 auto;
+  background: linear-gradient(35, #ffcc00, white, #00ccff);
 }

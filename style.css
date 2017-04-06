@@ -19,3 +19,9 @@
           height: 100;
           text-indent: -6000px;
         }
+
+.background {
+  background: url("img/silver-glitter-texture.jpg");
+  background-size: 100% auto;
+  height: auto 100%;
+}
